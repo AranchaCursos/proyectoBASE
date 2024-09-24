@@ -20,7 +20,9 @@ img, svg {
 [hidden], template {
   display: none;
 }
-
+.parrafo_azul{
+  color: aliceblue;
+}
 a {
   background-color: transparent;
   text-decoration: none;
